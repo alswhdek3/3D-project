@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Test02 : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Vector3 pos;
     void Start()
     {
         
