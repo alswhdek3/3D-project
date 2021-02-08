@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Test02 : MonoBehaviour
 {
-    public Vector3 pos;
+    public Transform transform;
     void Start()
     {
         
