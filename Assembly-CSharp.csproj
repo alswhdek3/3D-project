@@ -227,7 +227,6 @@
     <Compile Include="Assets\Main\2. Script\Spon\SponPointCtr.cs" />
     <Compile Include="Assets\Main\2. Script\Spon\WayPoint.cs" />
     <Compile Include="Assets\Main\2. Script\Spon\WayPointController.cs" />
-    <Compile Include="Assets\Main\2. Script\Test02.cs" />
     <Compile Include="Assets\Main\2. Script\UI\ActionButton.cs" />
     <Compile Include="Assets\Main\2. Script\UI\HUDController.cs" />
     <Compile Include="Assets\Main\2. Script\UI\MovePadController.cs" />
